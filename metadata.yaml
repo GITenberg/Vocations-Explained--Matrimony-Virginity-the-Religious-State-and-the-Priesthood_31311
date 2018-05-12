@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41631'
     url: http://www.gutenberg.org/2009/agents/41631
 description: Abridgement of "Questions on Vocations" by Dennis J. Downing.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31311#Vocations-Explained--Matrimony-Virginity-the-Religious-State-and-the-Priesthood
 gutenberg_issued: '2010-02-17'
 gutenberg_type: Text
 identifiers:
